@@ -33,4 +33,5 @@ require (
 	sigs.k8s.io/cluster-api-provider-gcp v0.3.0
 	sigs.k8s.io/controller-runtime v0.8.3
 	sigs.k8s.io/structured-merge-diff/v4 v4.1.0 // indirect
+	sigs.k8s.io/yaml v1.2.0 // indirect
 )
